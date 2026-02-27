@@ -4,7 +4,7 @@ A powerful and advanced web scanning tool designed to discover admin panels, log
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.7%2B-orange)
-![Version](https://img.shields.io/badge/version-7.0-green)
+![Version](https://img.shields.io/badge/version-7.1-green)
 ![Last Updated](https://img.shields.io/badge/last%20updated-Dec%202025-yellow)
 
 <div align="center">
@@ -384,3 +384,4 @@ For issues, feature requests, or questions:
 ---
 
 **Star this project** ⭐ if you find it useful!
+
